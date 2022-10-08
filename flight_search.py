@@ -4,10 +4,10 @@ import random
 from flight_data import FlightData
 
 
-affill_ID = "karthikeyanflightsearch"
+affill_ID = "Your_affill_ID"
 TEQUILA_ENDPOINT = "https://api.tequila.kiwi.com"
 # SEARCH_ENDPOINT = f"{TEQUILA_ENDPOINT}/v2/search"
-API_KEY = "2e-BnuY0Z8kSY5kJhK922sLkxzvXKHEh"
+API_KEY = "Your_API_KEY"
 
 
 class FlightSearch:
